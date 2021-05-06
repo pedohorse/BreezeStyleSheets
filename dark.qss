@@ -1646,3 +1646,8 @@ QDoubleSpinBox::down-arrow:off
 {
    border-image: url(:/dark/down_arrow_disabled.svg);
 }
+
+QGraphicsView
+{
+    background: #232629;
+}
