@@ -1,7 +1,10 @@
 BreezeStyleSheets
 =================
 
-Breeze and BreezeDark-like stylesheets for Qt Applications.
+Breeze and BreezeDark-like stylesheets for Qt Applications.  
+Forked from [here](https://github.com/Alexhuszagh/BreezeStyleSheets) to make slight adjustments to stylesheet for my taste
+
+Description below was left untouched from the forked repo
 
 C++ Installation
 ================
